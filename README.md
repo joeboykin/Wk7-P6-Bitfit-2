@@ -22,19 +22,13 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [x] Nothing at this time
-
 ## Video Walkthrough
-
 Here's a walkthrough of implemented user stories:
 
-<img src= https://github.com/joeboykin/Wk7_Bitfit2/blob/114055f55137a05615357b689e53a7bf8e68f1d3/W7_Bitfit2_Video.gif title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/joeboykin/Wk7-P6-Bitfit-2/blob/6ee1ac062a02865fd38459c50864222b23dab63f/W7_Bitfit2_Video.gif' title='Bitfit-2' width='' alt='Bitfit-2 Video Walkthrough' />
 
-GIF created with ...  
-[Kap](https://getkap.co/) for macOS
-
-## Notes
-Describe any challenges encountered while building the app
-[x] There were challenges with implenting the fragments.
+<!-- Replace this with whatever GIF tool you used! -->
+GIF created with [Kap](https://getkap.co/) for macOS
 
 ## License
 
